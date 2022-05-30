@@ -66,3 +66,22 @@ footer {
 .review__images {
   border-radius: 50%;
 }
+
+/* Contact page */
+input, select, textarea {
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+}
+
+a{
+  text-decoration: none;
+}
+
+.home_page:active, a:hover {
+  outline: 0;
+  text-decoration: underline !important;
+}
+
+.current {
+ text-decoration: underline;
+}
