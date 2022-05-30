@@ -31,6 +31,9 @@ header a {
   background-color: #bb0000;
   color: #fff;
   font-size: 1.5em;
+  border-radius: 5px;
+  padding: 5px 40px 5px 40px;
+  margin: 40px 40px 40px 0px;
 }
 
 .reviews {
@@ -66,6 +69,16 @@ footer {
 .review__images {
   border-radius: 50%;
 }
+
+.cta-1 {
+  background-color: #bb0000;
+  color: #fff;
+  font-size: 1.5em;
+  border: 0px;
+  padding: 5px 60px 5px 60px;
+  margin: 0px;
+  border-radius: 5px;
+  }
 
 /* Contact page */
 input, select, textarea {
